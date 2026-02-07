@@ -1,0 +1,7 @@
+{
+  "name": "Iqaluit Transit Live",
+  "description": "A real-time bus tracking application for Iqaluit, Nunavut, featuring AI-powered transit advice and interactive route mapping.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
